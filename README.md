@@ -6,7 +6,7 @@ Maker Media GmbH
 Communicator für Home Assistant
 
 Sprachbefehle mit dem M5 Echo smart an Home Assistant senden.
-### Diese Anleitung zeigt, wie man die Firmware auf den kleinen Smart-Lautsprecher installiert und Home Assistant damit steuert. Home Assistant bringen kann.
+### Diese Anleitung zeigt, wie man die Firmware auf dem kleinen Smart-Lautsprecher installiert und Home Assistant damit steuert.
 
 Update zum Artikel in der Make 5/23: Die Spracherkennung erfolgt ohne Cloud-Dienste wie ChatGPT. Nabu Casa hat uns freundlicherweise auf diesen Fehler hingewiesen.
 
